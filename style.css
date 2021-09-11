@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    background-color: #F0E68C;
+    padding: 12px 0;
+}
+
+footer p{
+    margin: 4px auto;
+}
+
+footer p a{
+    text-decoration: none;
+    color: #1F6E82;
+    font-weight: bolder;
+}
